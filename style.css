@@ -19,7 +19,6 @@ body {
 }
 
 .card {
-    background-color: #3d88ae;
     width: 9vw;
     height: 9vw;
     display: flex;
@@ -28,32 +27,20 @@ body {
     margin-bottom: 20px;
 }
 
-.cardGreen {
+.blue {
+    background-color: #3d88ae;
+}
+
+.green {
     background-color: #61d2a4;
-    width:9vw;
-    height:9vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
+    
 }
 
-.cardYellow {
+.yellow {
     background-color: #f9d277;
-    width:9vw;
-    height:9vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
+    
 }
 
-.cardRed {
-    background-color: #de5471 !important;
-    width: 9vw;
-    height:9vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
+.red {
+    background-color: #de5471;
 }
