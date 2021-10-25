@@ -1,0 +1,59 @@
+body {
+    background-color: #183a4a;
+}
+
+#container {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+#container h1 {
+    color: white;
+}
+
+#containerCard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: #3d88ae;
+    width: 10.1%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.green {
+    background-color: #61d2a4;
+    width: 10.1%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.yellow {
+    background-color: #f9d277;
+    width: 10.1%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.red {
+    background-color: #de5471 !important;
+    width: 10.1%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
